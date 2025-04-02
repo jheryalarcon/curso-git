@@ -1,0 +1,23 @@
+commit 471e57952a9cab5b4309ed0c86a57e58562a528c (HEAD -> login, master)
+Author: Jhery Alarcon <alarconjhery@gmail.com>
+Date:   Wed Apr 2 14:42:31 2025 -0500
+
+    Primera version
+
+commit ab59f16cfffd76dc1896adf377ad6ffbb5b1a875
+Author: Jhery Alarcon <alarconjhery@gmail.com>
+Date:   Wed Apr 2 13:47:00 2025 -0500
+
+    Correccion de la landing page
+
+commit 7d5ec1568906fd5a946cba25459cc12498dd22da
+Author: Jhery Alarcon <alarconjhery@gmail.com>
+Date:   Wed Apr 2 11:10:03 2025 -0500
+
+    Diseño de la interfaz de usuario
+
+commit fcca42759c9c2ae0e96865507667ae675eff04c0
+Author: Jhery Alarcon <alarconjhery@gmail.com>
+Date:   Wed Apr 2 11:05:28 2025 -0500
+
+    Mi primer commit
